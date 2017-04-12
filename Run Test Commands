@@ -1,0 +1,4 @@
+From Project Directory with Pom.xml launch Console or Powershell
+Launch test using command below providing variables for AutomationName, DeviceName, PlatformName, and PlatformVersion
+
+mvn test -DAutomationName=Appium -DDeviceName=SM-900V -DPlatformName=Android -DPlatformVersion=5.0
